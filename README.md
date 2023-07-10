@@ -1,5 +1,5 @@
 <h1 align="center">Hola!! :wave::wave: Mi nombre es Martín Alturria.</h1>
-<h3 align="center">Soy Programador Fullstack orientado al Desarrollo Backend.</h3>
+<h3 align="center">Soy Programador FULLSTACK orientado al desarrollo BACKEND.</h3>
 
 
 
