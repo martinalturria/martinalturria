@@ -4,7 +4,7 @@
 - **¿Quien soy?** <br>
 
   
-  *Siempre fui un aficionado a la Tecnología, Programación y la Microelectrónica. Muy pro-activo y siempre desafiándome a mi mismo por aprender más. Me gusta trabajar en Equipo y poder encontrar nuevos desafíos diarios para poder darle solución a los diferentes problemas. Soy muy Positivo y gracias a ello eh ido logrando diferentes objetivos en la tecnología como así también en diferentes proyectos. Estoy dispuesto al crecimiento permanente ya que me gusta crecer en aptitudes y como persona. Me adapto muy rápidamente a las diferentes tecnologías y cambios que se me puedan asignar. Poseo Conocimientos en diferentes.* <br><br><br>
+  *Siempre fui un aficionado a la Tecnología, Programación y la Microelectrónica. Muy pro-activo y siempre desafiándome a mi mismo por aprender más. Me gusta trabajar en Equipo y poder encontrar nuevos desafíos diarios para poder darle solución a los diferentes problemas. Soy muy Positivo y gracias a ello eh ido logrando diferentes objetivos en la tecnología como así también en diferentes proyectos. Estoy dispuesto al crecimiento permanente ya que me gusta crecer en aptitudes y como persona. Me adapto muy rápidamente a las diferentes tecnologías y cambios que se me puedan asignar.* <br><br><br>
 
 
 <h3 align="left">Lenguajes y Frameworks:</h3> <br>
