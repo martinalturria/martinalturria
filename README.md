@@ -1,10 +1,10 @@
 <h1 align="center">Hola!! :wave:  Mi nombre es Martín Alturria.</h1> <br><br>
-<h3 align="center">Soy Programador Fullstack orientado al Backend.</h3> <br><br>
+<h3 align="center">Soy Programador Fullstack.</h3> <br><br>
 
 - **¿Quien soy?** <br>
 
   
-  *Soy un profesional Full Stack orientado al desarrollo Backend, dedicado a crear soluciones completas y efectivas para distintas necesidades tecnológicas. Desde la interfaz de usuario hasta la lógica detrás de escena, estoy listo para abordar y resolver cualquier desafío que tenga por delante.* <br><br><br>
+  *Soy un profesional Full Stack, dedicado a crear soluciones completas y efectivas para distintas necesidades tecnológicas. Desde la interfaz de usuario hasta la lógica detrás de escena, estoy listo para abordar y resolver cualquier desafío que tenga por delante.* <br><br><br>
 
 
 <h3 align="left">Lenguajes y Frameworks:</h3> <br>
